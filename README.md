@@ -19,7 +19,7 @@ If the user forgets to turn it off, the system powers down automatically after a
   - Auto shut-off after 6 seconds of inactivity
 - **Use Case**: Energy-saving in environments where user forgetfulness is a risk
 
-📄 **Code Location**: `latching_power_switch.ino`
+📄 **Code Location**: [`latching_power_switch.ino`](./latching_power_switch.ino)
 
 ---
 
@@ -38,7 +38,7 @@ If the user forgets to turn it off, the system powers down automatically after a
   - Detects motion ONLY if it's dark (adjustable threshold)
   - Helps save power and reduce false triggers during daylight
 
-📄 **Code Location**: `smartlight_guardian.ino`
+📄 **Code Location**: [`smartlight_guardian.ino`](./smartlight_guardian.ino)
 
 ---
 
